@@ -1,0 +1,10 @@
+# Digital Ocean
+digitalocean_token = ""
+
+# Cloudflare
+cloudflare_token = ""
+cloudflare_email = ""
+cloudflare_domain = ""
+
+# run: ssh-keygen -E md5 -lf ~/.ssh/id_rsa.pub | awk '{print $2}' | sed -e 's/MD5://g'
+cloudflare_ssh_fingerprint = ""
